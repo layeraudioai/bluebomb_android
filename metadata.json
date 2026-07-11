@@ -1,0 +1,6 @@
+{
+  "name": "Bluebomb Sender",
+  "description": "An interactive companion and exploit configuration guide for Bluebomb (Bluetooth exploit for Wii and Wii mini). Includes interactive connection simulation, console logs, and step-by-step homebrew installation tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
