@@ -1,0 +1,1 @@
+Download the latest apk from releases. Install to android device. Insert USB into android device (must have USB c and USB a or just usb a with c otg) and use app to setup usb. Insert usb into wii mini. Follow bluebomb instructions but with the android app instead of linux stuff.
